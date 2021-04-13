@@ -14,7 +14,7 @@ const messageHandling = () => {
                 telegram.sendMessage(message.chat.id, `
 Hello ${username}! vui lòng cung cấp lệnh bên dưới ❤️
 /add tên quán ăn - Thêm quán ăn, vd: /add Quán ăn Hoàng Gia
-/remoce tên quán ăn - Xoá quán ăn, vd: /remove 0 hoặc /remove quán ăn Hoàng Gia
+/remove tên quán ăn - Xoá quán ăn, vd: /remove 0 hoặc /remove quán ăn Hoàng Gia
 /lists - Danh sách quán ăn
 Cảm ơn 😘
 `)
